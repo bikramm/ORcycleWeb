@@ -1,4 +1,4 @@
 ORCycle
 =======
 
-ORCycle Bootstrap
+ORcycle website for displaying the heatmap.
